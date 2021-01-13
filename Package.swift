@@ -12,7 +12,7 @@ let package = Package(
         .binaryTarget(
             name: "libssh2",
             url: "https://github.com/yury/libssh2-apple/releases/download/v1.9.0/libssh2-dynamic.xcframework.zip",
-            checksum: "35818bc9ed5225e0b80d6ad0f264261eee945d0090849d677a9a34ba7e11dbfc"
+            checksum: "07952e484eb511b1badb110c15d4621bb84ef98b28ea4d6e1d3a067d420806f5"
         ),
     ]
 )
